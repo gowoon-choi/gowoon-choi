@@ -1,4 +1,4 @@
-### Hi there 👋 I'm GOWOON CHOI
+### Hi there 👋 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goun-choi-5a060619a/)](https://www.linkedin.com/in/goun-choi-5a060619a/)
@@ -12,7 +12,7 @@
 
 - 🏫 I’m undergraduate student in department of computer science and engineering in Dongguk Univ.
 - 🤓 I’m junior Android developer.
-- 📚 I'm currently interesting Android Clean Architecture.
+- 📚 I'm currently interested in Android Clean Architecture.
 
 
 #### Tech Stack
