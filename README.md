@@ -8,7 +8,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gowoon-choi)](https://github.com/gowoon-choi/github-readme-stats)
 
 
-#### Abount Me
+#### About Me
 
 - 🏫 I’m undergraduate student in department of computer science and engineering in Dongguk Univ.
 - 🤓 I’m junior Android developer.
