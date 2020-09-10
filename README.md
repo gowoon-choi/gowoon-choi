@@ -10,9 +10,9 @@
 
 #### Abount Me
 
-- I’m undergraduate student in CS, Dongguk Univ.
-- I’m junior Android developer.
-- I'm currently interesting Android Clean Architecture.
+- 🏫 I’m undergraduate student in department of computer science and engineering in Dongguk Univ.
+- 🤓 I’m junior Android developer.
+- 📚 I'm currently interesting Android Clean Architecture.
 
 
 #### Tech Stack
