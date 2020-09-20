@@ -15,6 +15,6 @@
 - 📚 I'm currently interested in Android Clean Architecture.
 
 
-#### Tech Stack
+<!-- #### Tech Stack -->
 
 
