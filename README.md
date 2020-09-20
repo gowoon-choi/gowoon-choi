@@ -9,10 +9,7 @@
 
 
 #### About Me
-
-- 🏫 I’m undergraduate student in department of computer science and engineering in Dongguk Univ.
-- 🤓 I’m junior Android developer.
-- 📚 I'm currently interested in Android Clean Architecture.
+🏫 I’m undergraduate student in department of computer science and engineering in Dongguk Univ.
 
 
 <!-- #### Tech Stack -->
