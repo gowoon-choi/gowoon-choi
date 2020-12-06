@@ -9,7 +9,7 @@
 
 
 #### About Me
-🏫 I’m undergraduate student in department of computer science and engineering in Dongguk Univ.
+🏫 I’m undergraduate student in department of computer science and engineering at Dongguk Univ.
 
 
 <!-- #### Tech Stack -->
