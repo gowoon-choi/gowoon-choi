@@ -6,6 +6,7 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gowoon-choi)](https://github.com/gowoon-choi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowoon-choi&layout=compact)](https://github.com/gowoon-choi/github-readme-stats)
 
 
 #### About Me
