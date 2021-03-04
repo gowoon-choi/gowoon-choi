@@ -11,6 +11,8 @@
 #### About Me
 🏫 I’m undergraduate student majoring in computer science and engineering at Dongguk Univ.
 
+👩🏻‍💻 I'm interested in Android Development.
+
 
 <!-- #### Tech Stack -->
 
